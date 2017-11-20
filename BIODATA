@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Biodata</title>
+</head>
+<body>
+	<header><CENTER><B>BIODATA</B></CENTER></header><HR SIZE = 5 PX COLOR = RED>
+	<CENTER><TABLE>
+		<TR>
+			<TD><CENTER><B>NAMA</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>PINDA PRATAMA PUTRA</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>T.T.L</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>PACITAN, 10 September 1996</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>ALAMAT</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>RT. 02 RW. 08, KRIYAN SIDOHARJO. PACITAN</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>HOBBY</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>MAKAN</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>AGAMA</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>ISLAM</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>EMAIL</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>pindaputra3@gmail.com</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>CITA-CITA</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>PRESIDEN(kalau jadi :D :D :D)</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>NO HP</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>0823-0209-1203</B></TD>
+		</TR>
+	</TABLE></CENTER><BR>
+	<header><CENTER><B>RIWAYAT SEKOLAH</B></CENTER></header><HR SIZE = 5 PX COLOR = RED>
+	<CENTER><TABLE>
+		<TR>
+			<TD><CENTER><B>SD</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>SDN SIDOHARJO 02, PACITAN</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>SMP</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>SMPN 03, PACITAN</B></TD>
+		</TR>
+		<TR>
+			<TD><CENTER><B>SMK</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>SMK BINA KARYA, PACITAN</B></TD>
+		</TR>
+	</TABLE></CENTER><BR>
+	<header><CENTER><B>PENGALAMAN KERJA</B></CENTER></header><HR SIZE = 5 PX COLOR = RED>
+	<CENTER><TABLE>
+		<TR>
+			<TD><CENTER><B>MAGANG</B></CENTER></TD>
+			<TD><CENTER><B>:</B></CENTER></TD>
+			<TD><B>MENERA TIMUR COMPUTER</B></TD>
+		</TR>
+	</TABLE></CENTER><BR>
+	<header><CENTER><B>KUALIFIKASI</B></CENTER></header><HR SIZE = 5 PX COLOR = RED>
+	<CENTER><TABLE>
+		<TR>
+			<TD><CENTER><B>TEKNISI KOMPUTER&JARINGAN</B></CENTER></TD>
+		</TR>
+	</TABLE></CENTER><BR>
+</body>
+</html>
