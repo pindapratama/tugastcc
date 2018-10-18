@@ -1,0 +1,28 @@
+runtime: php55
+api_version: 1
+threadsafe: true
+handlers:
+- url: /image
+  static_dir: image
+- url: /css
+  static_dir: css
+- url: /
+  script: index.php
+- url: /index.php
+  script: index.php
+- url: /sop.html
+  script: sop.html
+- url: /asem.html
+  script: asem.html
+- url: /sate.html
+  script: sate.html
+- url: /baso.html
+  script: baso.html
+- url: /rendang.html
+  script: rendang.html
+- url: /soto.html
+  script: soto.html
+- url: /pecel.html
+  script: pecel.html
+- url: /gado.html
+  script: gado.html
